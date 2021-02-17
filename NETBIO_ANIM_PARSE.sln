@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETBIO_ANIM_PARSE", "NETBIO_ANIM_PARSE\NETBIO_ANIM_PARSE.csproj", "{24EA9A21-FF20-4637-817C-843E1B1A1690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24EA9A21-FF20-4637-817C-843E1B1A1690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EA9A21-FF20-4637-817C-843E1B1A1690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EA9A21-FF20-4637-817C-843E1B1A1690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EA9A21-FF20-4637-817C-843E1B1A1690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98B78BE3-4D34-4AE2-887F-8C1F5D702A22}
+	EndGlobalSection
+EndGlobal

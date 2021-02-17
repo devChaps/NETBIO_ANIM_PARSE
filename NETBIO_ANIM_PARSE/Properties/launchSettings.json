@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NETBIO_ANIM_PARSE": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\axiom\\Desktop\\anim_research\\e22_000.bin -e"
+    }
+  }
+}
